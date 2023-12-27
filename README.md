@@ -1,2 +1,2 @@
 # image_background_removal
-remove backgrounds from images. 
+This tool has been cloned and updated with a watchdog folder. it will monitor a folder for images and run subsequent tasks to remove backgrounds from images. 
