@@ -14,7 +14,7 @@ def process_files():
                 original_image = i.read()
                 output = remove(original_image)
                 o.write(output)
-        os.remove(input_path)  # Optionally remove the processed file
+        os.remove(input_path)                   # Important (remove original file)
 
 folder_path = 'image'
 state_file = "folder_state.txt"
@@ -25,7 +25,7 @@ while True:
         with open(state_file, 'w') as file:
             file.write('foundFiles=True')
             print('Folder is not empty')
-        process_files()  # Process the files function
+        process_files()                         # call process file function
     else:
         with open(state_file, 'w') as file:
             file.write('foundFiles=False')
