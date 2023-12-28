@@ -1,1 +1,0 @@
-this is an empty folder for testing. change the code to images to start the script to remove the background from images.
