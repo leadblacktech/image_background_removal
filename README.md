@@ -1,4 +1,3 @@
-
 # Automated Image Background Removal Tool
 
 ## Introduction
@@ -19,12 +18,12 @@ My passion for **Photogrammetry** involves capturing hundreds of images, each de
 
 This streamlined workflow significantly frees up time, allowing me to focus on other critical aspects of 3D object creation. The final touch involves employing **Adobe Photoshop** and **Adobe Lightroom**, adding that professional finish to the images.
 
-# Embracing this automated approach transforms a traditionally labor-intensive process into a swift, efficient, and more enjoyable part of my creative hobby
+Embracing this automated approach transforms a traditionally labor-intensive process into a swift, efficient, and more enjoyable part of my creative hobby.
 
 ===========================================================================================================================================================
 
-# Image Background Removal Tool
+## Image Background Removal Tool
 
 This tool has been cloned and updated with a watchdog folder. it will monitor a folder for images and run subsequent tasks to remove backgrounds from images.
 
-Source Repo: <https://github.com/danielgatis/rembg>
+Source Repo: [https://github.com/danielgatis/rembg](https://github.com/danielgatis/rembg)
