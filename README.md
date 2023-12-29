@@ -22,6 +22,4 @@ Embracing this automated approach transforms a traditionally labor-intensive pro
 
 ---
 
-
-
 Source Repo: [https://github.com/danielgatis/rembg](https://github.com/danielgatis/rembg)
